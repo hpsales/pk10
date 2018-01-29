@@ -1,0 +1,23 @@
+{
+  "code": 1,
+  "artical": [
+    {
+      "puttime": "2017-10-28",
+      "title": "命不由天1",
+      "content": "文章内容文章内容",
+      "comment": "3条"
+    },
+    {
+      "puttime": "2017-10-28",
+      "title": "命不由天2",
+      "content": "文章内容文章内容",
+      "comment": "333条"
+    },
+    {
+      "puttime": "2017-10-28",
+      "title": "命不由天3",
+      "content": "文章内容文章内容",
+      "comment": "355条"
+    }
+  ]
+}

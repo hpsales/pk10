@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>cookie</title>
+</head>
+<body>
+
+<button id="setBtn">设置</button>
+<button id="getBtn">设置</button>
+<p id="text"></p>
+
+<script>
+  window.onload = function () {
+    var setBtn = document.getElementById('setBtn');
+    var getBtn = document.getElementById('getBtn');
+    var text = document.getElementById('text');
+
+    function setCookies(name, value) {
+      document.cookie = name + '=' + escape(value)
+    }
+    function getCookie(name) {
+      if (document.cookie.length > 0) {
+        var start = document.cookie.indexOf(name + '=')
+        if (start != -1) {
+          start = start + name.length + 1
+          var end = document.cookie.indexOf(";", start)
+          if (end == -1) {
+            end = document.cookie.length
+          } else {
+            return unescape(document.cookie.substring(start, end))
+          }
+        }
+      }else {
+        return ""
+      }
+    }
+
+    setBtn.onclick = function () {
+      setCookies('username','leo')
+      text.innerHTML = getCookie('username')
+    }
+    getBtn.onclick = function () {
+      text.innerHTML = getCookie('username')
+    }
+
+  }
+</script>
+
+</body>
+</html>
