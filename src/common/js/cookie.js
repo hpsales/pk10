@@ -1,32 +1,20 @@
 export function setCookies(name, value) {
-  var days = 30
+  var Days = 30
   var exp = new Date()
-  exp.setTime(exp.getTime() + days * 24 * 60 * 1000)
-  document.cookie = name + '=' + escape(value) + exp.toGMTString()
+  exp.setTime(exp.getTime() + Days * 24 * 60 * 60 * 1000)
+  document.cookie = name + "=" + escape(value) + ";expires=" + exp.toGMTString()
 }
 
 export function getCookies(name) {
-  if (document.cookie.length > 0) {
-    var start = document.cookie.indexOf(name + '=')
-    if (start !== -1) {
-      start = start + name.length + 1
-      var end = document.cookie.indexOf(';', start)
-      if (end === -1) {
-        end = document.cookie.length
-      } else {
-        return unescape(document.cookie.substring(start, end))
-      }
-    }
-  } else {
-    return ''
-  }
+  var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)")
+  return (arr = document.cookie.match(reg)) ? unescape(arr[2]) : null
 }
 
 export function delCookie(name) {
   var exp = new Date()
   exp.setTime(exp.getTime() - 1)
-  var cval = getCookies(name)
+  var cval = getCookie(name)
   if (cval != null) {
-    document.cookie = name + '=' + cval + ';expires=' + exp.toGMTString()
+    document.cookie = name + "=" + cval + ";expires=" + exp.toGMTString()
   }
 }

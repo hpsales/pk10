@@ -1,12 +1,12 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Login from 'components/Login/Login'
+import Index from 'components/index/index'
 import Home from 'components/home/home'
-import Daily from 'components/daily/daily'
-import Article from 'components/article/article'
-import Classify from 'components/classify/classify'
-import About from 'components/about/about'
-import ArticleDetail from 'components/articleDetail/articleDetail'
+import Bet from 'components/bet/bet'
+import Record from 'components/record/record'
+import Contact from 'components/contact/contact'
+
 
 Vue.use(Router)
 
@@ -18,29 +18,25 @@ export default new Router({
       component: Login
     },
     {
-      path: '/home',
-      name: 'Home',
-      component: Home,
+      path: '/index',
+      name: 'index',
+      component: Index,
       children: [
         {
-          path: '/daily',
-          component: Daily
+          path: '/home',
+          component: Home
         },
         {
-          path: '/article',
-          component: Article
+          path: '/bet',
+          component: Bet
         },
         {
-          path: '/classify',
-          component: Classify
+          path: '/record',
+          component: Record
         },
         {
-          path: '/about',
-          component: About
-        },
-        {
-          path: '/daily/:id',
-          component: ArticleDetail
+          path: '/contact',
+          component: Contact
         }
       ]
     }

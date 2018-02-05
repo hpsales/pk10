@@ -1,0 +1,8773 @@
+[
+  {
+    "openDateTime": "2018-01-29 23:57:30",
+    "issue": "664414",
+    "openNum": [
+      9,
+      2,
+      4,
+      5,
+      3,
+      8,
+      7,
+      1,
+      6,
+      10
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:52:30",
+    "issue": "664413",
+    "openNum": [
+      6,
+      9,
+      10,
+      8,
+      2,
+      7,
+      5,
+      3,
+      4,
+      1
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:47:30",
+    "issue": "664412",
+    "openNum": [
+      3,
+      6,
+      4,
+      8,
+      9,
+      7,
+      5,
+      1,
+      10,
+      2
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:42:30",
+    "issue": "664411",
+    "openNum": [
+      3,
+      2,
+      6,
+      9,
+      4,
+      7,
+      8,
+      10,
+      1,
+      5
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:37:30",
+    "issue": "664410",
+    "openNum": [
+      1,
+      2,
+      6,
+      8,
+      7,
+      10,
+      3,
+      9,
+      4,
+      5
+    ],
+    "sumArr": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:32:30",
+    "issue": "664409",
+    "openNum": [
+      2,
+      9,
+      7,
+      8,
+      3,
+      6,
+      10,
+      4,
+      5,
+      1
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:27:30",
+    "issue": "664408",
+    "openNum": [
+      5,
+      8,
+      9,
+      2,
+      1,
+      3,
+      10,
+      4,
+      6,
+      7
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:22:30",
+    "issue": "664407",
+    "openNum": [
+      10,
+      7,
+      8,
+      3,
+      2,
+      4,
+      9,
+      1,
+      5,
+      6
+    ],
+    "sumArr": [
+      17,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:17:30",
+    "issue": "664406",
+    "openNum": [
+      4,
+      1,
+      8,
+      2,
+      9,
+      3,
+      6,
+      5,
+      10,
+      7
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:12:30",
+    "issue": "664405",
+    "openNum": [
+      7,
+      6,
+      2,
+      10,
+      8,
+      3,
+      5,
+      4,
+      1,
+      9
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:07:30",
+    "issue": "664404",
+    "openNum": [
+      5,
+      3,
+      10,
+      8,
+      4,
+      6,
+      2,
+      9,
+      1,
+      7
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 23:02:30",
+    "issue": "664403",
+    "openNum": [
+      8,
+      2,
+      3,
+      9,
+      5,
+      10,
+      7,
+      4,
+      6,
+      1
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:57:30",
+    "issue": "664402",
+    "openNum": [
+      1,
+      6,
+      7,
+      5,
+      3,
+      8,
+      10,
+      4,
+      9,
+      2
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:52:30",
+    "issue": "664401",
+    "openNum": [
+      7,
+      3,
+      8,
+      5,
+      10,
+      4,
+      9,
+      2,
+      1,
+      6
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:47:30",
+    "issue": "664400",
+    "openNum": [
+      4,
+      9,
+      5,
+      8,
+      3,
+      7,
+      1,
+      6,
+      10,
+      2
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:42:30",
+    "issue": "664399",
+    "openNum": [
+      5,
+      1,
+      10,
+      9,
+      6,
+      4,
+      2,
+      3,
+      8,
+      7
+    ],
+    "sumArr": [
+      6,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:37:30",
+    "issue": "664398",
+    "openNum": [
+      6,
+      8,
+      7,
+      4,
+      9,
+      2,
+      5,
+      1,
+      10,
+      3
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:32:30",
+    "issue": "664397",
+    "openNum": [
+      2,
+      5,
+      6,
+      1,
+      10,
+      4,
+      7,
+      8,
+      9,
+      3
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:27:30",
+    "issue": "664396",
+    "openNum": [
+      8,
+      10,
+      4,
+      6,
+      5,
+      1,
+      3,
+      9,
+      7,
+      2
+    ],
+    "sumArr": [
+      18,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:22:30",
+    "issue": "664395",
+    "openNum": [
+      8,
+      3,
+      2,
+      5,
+      7,
+      1,
+      10,
+      4,
+      9,
+      6
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:17:30",
+    "issue": "664394",
+    "openNum": [
+      9,
+      10,
+      4,
+      8,
+      3,
+      6,
+      7,
+      1,
+      5,
+      2
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:12:30",
+    "issue": "664393",
+    "openNum": [
+      1,
+      2,
+      7,
+      5,
+      4,
+      3,
+      8,
+      10,
+      9,
+      6
+    ],
+    "sumArr": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:07:30",
+    "issue": "664392",
+    "openNum": [
+      3,
+      1,
+      2,
+      7,
+      6,
+      4,
+      9,
+      5,
+      8,
+      10
+    ],
+    "sumArr": [
+      4,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 22:02:30",
+    "issue": "664391",
+    "openNum": [
+      9,
+      6,
+      3,
+      10,
+      2,
+      1,
+      4,
+      7,
+      5,
+      8
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:57:30",
+    "issue": "664390",
+    "openNum": [
+      10,
+      6,
+      2,
+      9,
+      4,
+      3,
+      1,
+      7,
+      8,
+      5
+    ],
+    "sumArr": [
+      16,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:52:30",
+    "issue": "664389",
+    "openNum": [
+      4,
+      9,
+      8,
+      10,
+      1,
+      5,
+      7,
+      6,
+      2,
+      3
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:47:30",
+    "issue": "664388",
+    "openNum": [
+      2,
+      4,
+      7,
+      6,
+      9,
+      5,
+      3,
+      1,
+      8,
+      10
+    ],
+    "sumArr": [
+      6,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:42:30",
+    "issue": "664387",
+    "openNum": [
+      2,
+      7,
+      4,
+      8,
+      9,
+      1,
+      5,
+      3,
+      6,
+      10
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:37:30",
+    "issue": "664386",
+    "openNum": [
+      7,
+      8,
+      5,
+      9,
+      4,
+      2,
+      3,
+      6,
+      10,
+      1
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:32:30",
+    "issue": "664385",
+    "openNum": [
+      9,
+      8,
+      4,
+      10,
+      7,
+      1,
+      5,
+      6,
+      3,
+      2
+    ],
+    "sumArr": [
+      17,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:27:30",
+    "issue": "664384",
+    "openNum": [
+      3,
+      10,
+      4,
+      2,
+      7,
+      6,
+      9,
+      8,
+      1,
+      5
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:22:30",
+    "issue": "664383",
+    "openNum": [
+      9,
+      1,
+      5,
+      2,
+      3,
+      7,
+      10,
+      6,
+      4,
+      8
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:17:30",
+    "issue": "664382",
+    "openNum": [
+      3,
+      5,
+      2,
+      7,
+      6,
+      8,
+      1,
+      9,
+      10,
+      4
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:12:30",
+    "issue": "664381",
+    "openNum": [
+      9,
+      6,
+      7,
+      2,
+      4,
+      1,
+      5,
+      8,
+      3,
+      10
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:07:30",
+    "issue": "664380",
+    "openNum": [
+      9,
+      3,
+      6,
+      2,
+      8,
+      10,
+      7,
+      5,
+      1,
+      4
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 21:02:30",
+    "issue": "664379",
+    "openNum": [
+      7,
+      2,
+      10,
+      5,
+      6,
+      8,
+      1,
+      9,
+      4,
+      3
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:57:30",
+    "issue": "664378",
+    "openNum": [
+      4,
+      6,
+      2,
+      1,
+      8,
+      7,
+      9,
+      5,
+      10,
+      3
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:52:30",
+    "issue": "664377",
+    "openNum": [
+      1,
+      10,
+      8,
+      9,
+      6,
+      7,
+      4,
+      2,
+      5,
+      3
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:47:30",
+    "issue": "664376",
+    "openNum": [
+      7,
+      4,
+      8,
+      10,
+      2,
+      6,
+      5,
+      9,
+      1,
+      3
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:42:30",
+    "issue": "664375",
+    "openNum": [
+      5,
+      1,
+      6,
+      4,
+      2,
+      9,
+      7,
+      8,
+      3,
+      10
+    ],
+    "sumArr": [
+      6,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:37:30",
+    "issue": "664374",
+    "openNum": [
+      9,
+      10,
+      5,
+      8,
+      3,
+      1,
+      7,
+      4,
+      2,
+      6
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:32:30",
+    "issue": "664373",
+    "openNum": [
+      5,
+      9,
+      3,
+      10,
+      1,
+      8,
+      7,
+      6,
+      4,
+      2
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:27:30",
+    "issue": "664372",
+    "openNum": [
+      10,
+      1,
+      6,
+      2,
+      9,
+      5,
+      8,
+      7,
+      4,
+      3
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:22:30",
+    "issue": "664371",
+    "openNum": [
+      9,
+      2,
+      6,
+      1,
+      10,
+      5,
+      8,
+      4,
+      3,
+      7
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:17:30",
+    "issue": "664370",
+    "openNum": [
+      6,
+      9,
+      3,
+      10,
+      2,
+      7,
+      8,
+      1,
+      5,
+      4
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:12:30",
+    "issue": "664369",
+    "openNum": [
+      3,
+      4,
+      6,
+      9,
+      5,
+      2,
+      8,
+      1,
+      7,
+      10
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:07:30",
+    "issue": "664368",
+    "openNum": [
+      7,
+      6,
+      2,
+      8,
+      1,
+      3,
+      5,
+      4,
+      9,
+      10
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 20:02:30",
+    "issue": "664367",
+    "openNum": [
+      2,
+      6,
+      8,
+      7,
+      1,
+      9,
+      5,
+      10,
+      4,
+      3
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:57:30",
+    "issue": "664366",
+    "openNum": [
+      3,
+      5,
+      4,
+      2,
+      10,
+      7,
+      6,
+      1,
+      8,
+      9
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:52:30",
+    "issue": "664365",
+    "openNum": [
+      10,
+      9,
+      2,
+      4,
+      3,
+      1,
+      5,
+      8,
+      7,
+      6
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:47:30",
+    "issue": "664364",
+    "openNum": [
+      8,
+      5,
+      6,
+      4,
+      2,
+      9,
+      1,
+      7,
+      3,
+      10
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:42:30",
+    "issue": "664363",
+    "openNum": [
+      3,
+      2,
+      4,
+      5,
+      8,
+      6,
+      1,
+      9,
+      7,
+      10
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:37:30",
+    "issue": "664362",
+    "openNum": [
+      10,
+      2,
+      8,
+      9,
+      4,
+      6,
+      3,
+      5,
+      1,
+      7
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:32:30",
+    "issue": "664361",
+    "openNum": [
+      6,
+      1,
+      2,
+      4,
+      3,
+      8,
+      10,
+      7,
+      9,
+      5
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:27:30",
+    "issue": "664360",
+    "openNum": [
+      9,
+      10,
+      2,
+      8,
+      1,
+      3,
+      6,
+      5,
+      7,
+      4
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:22:30",
+    "issue": "664359",
+    "openNum": [
+      2,
+      5,
+      9,
+      4,
+      7,
+      3,
+      1,
+      8,
+      6,
+      10
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:17:30",
+    "issue": "664358",
+    "openNum": [
+      9,
+      4,
+      8,
+      6,
+      2,
+      10,
+      3,
+      1,
+      5,
+      7
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:12:30",
+    "issue": "664357",
+    "openNum": [
+      3,
+      2,
+      6,
+      8,
+      5,
+      7,
+      4,
+      9,
+      10,
+      1
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:07:30",
+    "issue": "664356",
+    "openNum": [
+      5,
+      9,
+      4,
+      3,
+      8,
+      6,
+      10,
+      7,
+      1,
+      2
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 19:02:30",
+    "issue": "664355",
+    "openNum": [
+      2,
+      5,
+      6,
+      8,
+      1,
+      3,
+      4,
+      9,
+      10,
+      7
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:57:30",
+    "issue": "664354",
+    "openNum": [
+      7,
+      10,
+      1,
+      4,
+      9,
+      5,
+      6,
+      3,
+      8,
+      2
+    ],
+    "sumArr": [
+      17,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:52:30",
+    "issue": "664353",
+    "openNum": [
+      6,
+      4,
+      10,
+      8,
+      9,
+      5,
+      3,
+      7,
+      1,
+      2
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:47:30",
+    "issue": "664352",
+    "openNum": [
+      3,
+      2,
+      4,
+      1,
+      5,
+      6,
+      10,
+      8,
+      7,
+      9
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:42:30",
+    "issue": "664351",
+    "openNum": [
+      6,
+      8,
+      2,
+      9,
+      10,
+      5,
+      7,
+      3,
+      4,
+      1
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:37:30",
+    "issue": "664350",
+    "openNum": [
+      1,
+      4,
+      3,
+      6,
+      7,
+      9,
+      8,
+      2,
+      10,
+      5
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:32:30",
+    "issue": "664349",
+    "openNum": [
+      1,
+      4,
+      8,
+      6,
+      3,
+      7,
+      10,
+      9,
+      2,
+      5
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:27:30",
+    "issue": "664348",
+    "openNum": [
+      3,
+      5,
+      9,
+      6,
+      1,
+      10,
+      8,
+      4,
+      7,
+      2
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:22:30",
+    "issue": "664347",
+    "openNum": [
+      10,
+      4,
+      6,
+      3,
+      1,
+      2,
+      8,
+      7,
+      5,
+      9
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:17:30",
+    "issue": "664346",
+    "openNum": [
+      9,
+      10,
+      8,
+      4,
+      1,
+      7,
+      6,
+      2,
+      5,
+      3
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:12:30",
+    "issue": "664345",
+    "openNum": [
+      8,
+      10,
+      7,
+      3,
+      5,
+      6,
+      1,
+      9,
+      2,
+      4
+    ],
+    "sumArr": [
+      18,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:07:30",
+    "issue": "664344",
+    "openNum": [
+      8,
+      3,
+      6,
+      5,
+      7,
+      9,
+      10,
+      4,
+      2,
+      1
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 18:02:30",
+    "issue": "664343",
+    "openNum": [
+      9,
+      10,
+      3,
+      4,
+      2,
+      7,
+      5,
+      8,
+      6,
+      1
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:57:30",
+    "issue": "664342",
+    "openNum": [
+      7,
+      9,
+      3,
+      1,
+      2,
+      6,
+      8,
+      10,
+      5,
+      4
+    ],
+    "sumArr": [
+      16,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:52:30",
+    "issue": "664341",
+    "openNum": [
+      10,
+      1,
+      2,
+      5,
+      7,
+      4,
+      6,
+      3,
+      8,
+      9
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:47:30",
+    "issue": "664340",
+    "openNum": [
+      2,
+      3,
+      6,
+      5,
+      8,
+      4,
+      1,
+      7,
+      10,
+      9
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:42:30",
+    "issue": "664339",
+    "openNum": [
+      5,
+      9,
+      8,
+      2,
+      3,
+      6,
+      10,
+      1,
+      7,
+      4
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:37:30",
+    "issue": "664338",
+    "openNum": [
+      3,
+      8,
+      2,
+      5,
+      9,
+      4,
+      1,
+      10,
+      6,
+      7
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:32:30",
+    "issue": "664337",
+    "openNum": [
+      1,
+      7,
+      4,
+      5,
+      10,
+      9,
+      8,
+      3,
+      2,
+      6
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:27:30",
+    "issue": "664336",
+    "openNum": [
+      4,
+      10,
+      1,
+      7,
+      5,
+      3,
+      8,
+      9,
+      6,
+      2
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:22:30",
+    "issue": "664335",
+    "openNum": [
+      3,
+      7,
+      8,
+      6,
+      9,
+      5,
+      2,
+      1,
+      10,
+      4
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:17:30",
+    "issue": "664334",
+    "openNum": [
+      6,
+      7,
+      2,
+      10,
+      1,
+      9,
+      8,
+      4,
+      3,
+      5
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:12:30",
+    "issue": "664333",
+    "openNum": [
+      3,
+      6,
+      2,
+      1,
+      10,
+      9,
+      8,
+      7,
+      5,
+      4
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:07:30",
+    "issue": "664332",
+    "openNum": [
+      8,
+      10,
+      3,
+      4,
+      1,
+      2,
+      6,
+      5,
+      7,
+      9
+    ],
+    "sumArr": [
+      18,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 17:02:30",
+    "issue": "664331",
+    "openNum": [
+      8,
+      6,
+      10,
+      5,
+      9,
+      2,
+      3,
+      1,
+      7,
+      4
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:57:30",
+    "issue": "664330",
+    "openNum": [
+      6,
+      7,
+      3,
+      10,
+      4,
+      8,
+      2,
+      5,
+      1,
+      9
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:52:30",
+    "issue": "664329",
+    "openNum": [
+      3,
+      1,
+      2,
+      10,
+      4,
+      8,
+      9,
+      6,
+      7,
+      5
+    ],
+    "sumArr": [
+      4,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:47:30",
+    "issue": "664328",
+    "openNum": [
+      9,
+      3,
+      7,
+      10,
+      1,
+      8,
+      4,
+      6,
+      5,
+      2
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:42:30",
+    "issue": "664327",
+    "openNum": [
+      5,
+      10,
+      2,
+      3,
+      7,
+      8,
+      9,
+      6,
+      4,
+      1
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:37:30",
+    "issue": "664326",
+    "openNum": [
+      7,
+      1,
+      6,
+      4,
+      2,
+      10,
+      8,
+      9,
+      5,
+      3
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:32:30",
+    "issue": "664325",
+    "openNum": [
+      6,
+      8,
+      7,
+      4,
+      9,
+      10,
+      3,
+      2,
+      1,
+      5
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:27:30",
+    "issue": "664324",
+    "openNum": [
+      1,
+      4,
+      5,
+      2,
+      10,
+      9,
+      7,
+      8,
+      3,
+      6
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:22:30",
+    "issue": "664323",
+    "openNum": [
+      3,
+      4,
+      6,
+      2,
+      5,
+      9,
+      8,
+      1,
+      10,
+      7
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:17:30",
+    "issue": "664322",
+    "openNum": [
+      5,
+      7,
+      1,
+      9,
+      2,
+      3,
+      4,
+      10,
+      6,
+      8
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:12:30",
+    "issue": "664321",
+    "openNum": [
+      5,
+      3,
+      4,
+      1,
+      2,
+      9,
+      8,
+      6,
+      10,
+      7
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:07:30",
+    "issue": "664320",
+    "openNum": [
+      7,
+      4,
+      6,
+      3,
+      2,
+      1,
+      9,
+      8,
+      5,
+      10
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 16:02:30",
+    "issue": "664319",
+    "openNum": [
+      8,
+      7,
+      2,
+      10,
+      6,
+      5,
+      4,
+      1,
+      3,
+      9
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:57:30",
+    "issue": "664318",
+    "openNum": [
+      9,
+      4,
+      8,
+      6,
+      7,
+      10,
+      2,
+      1,
+      5,
+      3
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:52:30",
+    "issue": "664317",
+    "openNum": [
+      9,
+      6,
+      5,
+      1,
+      8,
+      4,
+      2,
+      7,
+      3,
+      10
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:47:30",
+    "issue": "664316",
+    "openNum": [
+      10,
+      5,
+      4,
+      7,
+      2,
+      9,
+      3,
+      6,
+      8,
+      1
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:42:30",
+    "issue": "664315",
+    "openNum": [
+      5,
+      4,
+      3,
+      2,
+      10,
+      1,
+      9,
+      8,
+      6,
+      7
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:37:30",
+    "issue": "664314",
+    "openNum": [
+      4,
+      5,
+      3,
+      9,
+      8,
+      2,
+      6,
+      10,
+      1,
+      7
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:32:30",
+    "issue": "664313",
+    "openNum": [
+      10,
+      2,
+      5,
+      9,
+      3,
+      4,
+      1,
+      7,
+      8,
+      6
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:27:30",
+    "issue": "664312",
+    "openNum": [
+      2,
+      7,
+      3,
+      4,
+      1,
+      6,
+      9,
+      10,
+      8,
+      5
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:22:30",
+    "issue": "664311",
+    "openNum": [
+      2,
+      6,
+      10,
+      8,
+      7,
+      9,
+      3,
+      1,
+      5,
+      4
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:17:30",
+    "issue": "664310",
+    "openNum": [
+      6,
+      9,
+      8,
+      5,
+      2,
+      10,
+      3,
+      1,
+      7,
+      4
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:12:30",
+    "issue": "664309",
+    "openNum": [
+      6,
+      9,
+      10,
+      8,
+      4,
+      1,
+      7,
+      2,
+      3,
+      5
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:07:30",
+    "issue": "664308",
+    "openNum": [
+      9,
+      10,
+      5,
+      6,
+      3,
+      4,
+      7,
+      2,
+      8,
+      1
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 15:02:30",
+    "issue": "664307",
+    "openNum": [
+      7,
+      5,
+      3,
+      10,
+      2,
+      9,
+      1,
+      4,
+      6,
+      8
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:57:30",
+    "issue": "664306",
+    "openNum": [
+      2,
+      9,
+      4,
+      5,
+      6,
+      3,
+      1,
+      10,
+      7,
+      8
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:52:30",
+    "issue": "664305",
+    "openNum": [
+      8,
+      6,
+      5,
+      2,
+      10,
+      1,
+      9,
+      4,
+      3,
+      7
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:47:30",
+    "issue": "664304",
+    "openNum": [
+      1,
+      4,
+      5,
+      7,
+      2,
+      9,
+      6,
+      3,
+      10,
+      8
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:42:30",
+    "issue": "664303",
+    "openNum": [
+      6,
+      4,
+      3,
+      2,
+      5,
+      1,
+      10,
+      7,
+      8,
+      9
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:37:30",
+    "issue": "664302",
+    "openNum": [
+      4,
+      8,
+      5,
+      10,
+      7,
+      6,
+      1,
+      3,
+      9,
+      2
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:32:30",
+    "issue": "664301",
+    "openNum": [
+      1,
+      5,
+      8,
+      9,
+      7,
+      4,
+      6,
+      10,
+      3,
+      2
+    ],
+    "sumArr": [
+      6,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:27:30",
+    "issue": "664300",
+    "openNum": [
+      8,
+      9,
+      4,
+      1,
+      10,
+      3,
+      5,
+      2,
+      6,
+      7
+    ],
+    "sumArr": [
+      17,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:22:30",
+    "issue": "664299",
+    "openNum": [
+      10,
+      9,
+      1,
+      2,
+      5,
+      4,
+      6,
+      8,
+      7,
+      3
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:17:30",
+    "issue": "664298",
+    "openNum": [
+      6,
+      2,
+      5,
+      8,
+      1,
+      3,
+      9,
+      10,
+      7,
+      4
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:12:30",
+    "issue": "664297",
+    "openNum": [
+      2,
+      8,
+      4,
+      3,
+      10,
+      1,
+      9,
+      6,
+      7,
+      5
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:07:30",
+    "issue": "664296",
+    "openNum": [
+      2,
+      1,
+      4,
+      10,
+      6,
+      3,
+      5,
+      7,
+      8,
+      9
+    ],
+    "sumArr": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 14:02:30",
+    "issue": "664295",
+    "openNum": [
+      1,
+      6,
+      8,
+      9,
+      7,
+      4,
+      10,
+      2,
+      5,
+      3
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:57:30",
+    "issue": "664294",
+    "openNum": [
+      8,
+      7,
+      2,
+      10,
+      5,
+      6,
+      4,
+      1,
+      3,
+      9
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:52:30",
+    "issue": "664293",
+    "openNum": [
+      3,
+      9,
+      7,
+      4,
+      5,
+      6,
+      10,
+      1,
+      2,
+      8
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:47:30",
+    "issue": "664292",
+    "openNum": [
+      8,
+      3,
+      2,
+      10,
+      9,
+      1,
+      5,
+      6,
+      7,
+      4
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:42:30",
+    "issue": "664291",
+    "openNum": [
+      3,
+      2,
+      1,
+      9,
+      8,
+      6,
+      10,
+      7,
+      4,
+      5
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:37:30",
+    "issue": "664290",
+    "openNum": [
+      7,
+      6,
+      4,
+      3,
+      9,
+      10,
+      5,
+      8,
+      2,
+      1
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:32:30",
+    "issue": "664289",
+    "openNum": [
+      10,
+      4,
+      7,
+      9,
+      2,
+      5,
+      1,
+      8,
+      3,
+      6
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:27:30",
+    "issue": "664288",
+    "openNum": [
+      2,
+      5,
+      4,
+      8,
+      6,
+      7,
+      9,
+      10,
+      3,
+      1
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:22:30",
+    "issue": "664287",
+    "openNum": [
+      1,
+      10,
+      5,
+      2,
+      4,
+      9,
+      7,
+      6,
+      3,
+      8
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:17:30",
+    "issue": "664286",
+    "openNum": [
+      5,
+      7,
+      1,
+      9,
+      2,
+      4,
+      10,
+      6,
+      8,
+      3
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:12:30",
+    "issue": "664285",
+    "openNum": [
+      8,
+      5,
+      1,
+      4,
+      9,
+      7,
+      2,
+      10,
+      3,
+      6
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:07:30",
+    "issue": "664284",
+    "openNum": [
+      10,
+      2,
+      5,
+      3,
+      7,
+      6,
+      8,
+      4,
+      9,
+      1
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 13:02:30",
+    "issue": "664283",
+    "openNum": [
+      7,
+      1,
+      10,
+      8,
+      3,
+      4,
+      2,
+      6,
+      5,
+      9
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:57:30",
+    "issue": "664282",
+    "openNum": [
+      5,
+      7,
+      9,
+      6,
+      4,
+      8,
+      2,
+      10,
+      3,
+      1
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:52:30",
+    "issue": "664281",
+    "openNum": [
+      3,
+      10,
+      9,
+      4,
+      2,
+      8,
+      5,
+      6,
+      7,
+      1
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:47:30",
+    "issue": "664280",
+    "openNum": [
+      1,
+      8,
+      10,
+      9,
+      3,
+      6,
+      2,
+      7,
+      4,
+      5
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:42:30",
+    "issue": "664279",
+    "openNum": [
+      5,
+      4,
+      9,
+      3,
+      10,
+      8,
+      7,
+      2,
+      1,
+      6
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:37:30",
+    "issue": "664278",
+    "openNum": [
+      2,
+      4,
+      3,
+      8,
+      5,
+      9,
+      6,
+      1,
+      7,
+      10
+    ],
+    "sumArr": [
+      6,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:32:30",
+    "issue": "664277",
+    "openNum": [
+      10,
+      7,
+      2,
+      5,
+      4,
+      3,
+      1,
+      6,
+      8,
+      9
+    ],
+    "sumArr": [
+      17,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:27:30",
+    "issue": "664276",
+    "openNum": [
+      7,
+      4,
+      5,
+      8,
+      6,
+      9,
+      2,
+      3,
+      10,
+      1
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:22:30",
+    "issue": "664275",
+    "openNum": [
+      7,
+      8,
+      5,
+      3,
+      1,
+      9,
+      2,
+      4,
+      6,
+      10
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:17:30",
+    "issue": "664274",
+    "openNum": [
+      9,
+      5,
+      10,
+      8,
+      2,
+      1,
+      6,
+      3,
+      4,
+      7
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:12:30",
+    "issue": "664273",
+    "openNum": [
+      2,
+      7,
+      4,
+      3,
+      6,
+      8,
+      1,
+      10,
+      5,
+      9
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:07:30",
+    "issue": "664272",
+    "openNum": [
+      4,
+      1,
+      7,
+      9,
+      5,
+      3,
+      6,
+      8,
+      10,
+      2
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 12:02:30",
+    "issue": "664271",
+    "openNum": [
+      8,
+      3,
+      9,
+      6,
+      2,
+      7,
+      4,
+      5,
+      10,
+      1
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:57:30",
+    "issue": "664270",
+    "openNum": [
+      1,
+      7,
+      10,
+      2,
+      6,
+      3,
+      4,
+      9,
+      8,
+      5
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:52:30",
+    "issue": "664269",
+    "openNum": [
+      7,
+      2,
+      10,
+      4,
+      1,
+      9,
+      3,
+      6,
+      8,
+      5
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:47:30",
+    "issue": "664268",
+    "openNum": [
+      8,
+      3,
+      6,
+      9,
+      4,
+      1,
+      5,
+      10,
+      7,
+      2
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:42:30",
+    "issue": "664267",
+    "openNum": [
+      5,
+      10,
+      3,
+      2,
+      9,
+      6,
+      8,
+      1,
+      7,
+      4
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:37:30",
+    "issue": "664266",
+    "openNum": [
+      4,
+      9,
+      10,
+      5,
+      6,
+      2,
+      8,
+      7,
+      3,
+      1
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:32:30",
+    "issue": "664265",
+    "openNum": [
+      4,
+      10,
+      3,
+      9,
+      1,
+      2,
+      8,
+      7,
+      5,
+      6
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:27:30",
+    "issue": "664264",
+    "openNum": [
+      5,
+      10,
+      1,
+      6,
+      7,
+      3,
+      4,
+      9,
+      8,
+      2
+    ],
+    "sumArr": [
+      15,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:22:30",
+    "issue": "664263",
+    "openNum": [
+      9,
+      7,
+      8,
+      2,
+      6,
+      3,
+      10,
+      4,
+      1,
+      5
+    ],
+    "sumArr": [
+      16,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:17:30",
+    "issue": "664262",
+    "openNum": [
+      1,
+      9,
+      5,
+      8,
+      2,
+      10,
+      6,
+      4,
+      7,
+      3
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:12:30",
+    "issue": "664261",
+    "openNum": [
+      4,
+      3,
+      6,
+      7,
+      1,
+      9,
+      5,
+      8,
+      10,
+      2
+    ],
+    "sumArr": [
+      7,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:07:30",
+    "issue": "664260",
+    "openNum": [
+      7,
+      6,
+      2,
+      5,
+      3,
+      1,
+      9,
+      8,
+      4,
+      10
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 11:02:30",
+    "issue": "664259",
+    "openNum": [
+      4,
+      5,
+      2,
+      9,
+      1,
+      8,
+      10,
+      6,
+      3,
+      7
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:57:30",
+    "issue": "664258",
+    "openNum": [
+      4,
+      1,
+      10,
+      3,
+      6,
+      2,
+      7,
+      9,
+      5,
+      8
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:52:30",
+    "issue": "664257",
+    "openNum": [
+      9,
+      10,
+      2,
+      6,
+      8,
+      3,
+      7,
+      1,
+      5,
+      4
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:47:30",
+    "issue": "664256",
+    "openNum": [
+      6,
+      5,
+      2,
+      10,
+      1,
+      8,
+      3,
+      9,
+      4,
+      7
+    ],
+    "sumArr": [
+      11,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:42:30",
+    "issue": "664255",
+    "openNum": [
+      10,
+      9,
+      7,
+      3,
+      8,
+      6,
+      2,
+      1,
+      5,
+      4
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:37:30",
+    "issue": "664254",
+    "openNum": [
+      10,
+      6,
+      5,
+      8,
+      3,
+      1,
+      2,
+      7,
+      4,
+      9
+    ],
+    "sumArr": [
+      16,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:32:30",
+    "issue": "664253",
+    "openNum": [
+      5,
+      4,
+      9,
+      1,
+      8,
+      10,
+      3,
+      7,
+      2,
+      6
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:27:30",
+    "issue": "664252",
+    "openNum": [
+      4,
+      8,
+      1,
+      10,
+      2,
+      6,
+      3,
+      5,
+      9,
+      7
+    ],
+    "sumArr": [
+      12,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:22:30",
+    "issue": "664251",
+    "openNum": [
+      1,
+      4,
+      2,
+      7,
+      9,
+      10,
+      6,
+      5,
+      3,
+      8
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:17:30",
+    "issue": "664250",
+    "openNum": [
+      5,
+      8,
+      6,
+      10,
+      2,
+      4,
+      9,
+      7,
+      3,
+      1
+    ],
+    "sumArr": [
+      13,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:12:30",
+    "issue": "664249",
+    "openNum": [
+      6,
+      3,
+      7,
+      4,
+      2,
+      8,
+      9,
+      1,
+      10,
+      5
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:07:30",
+    "issue": "664248",
+    "openNum": [
+      6,
+      4,
+      2,
+      9,
+      10,
+      3,
+      5,
+      1,
+      7,
+      8
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 10:02:30",
+    "issue": "664247",
+    "openNum": [
+      6,
+      2,
+      9,
+      7,
+      10,
+      8,
+      5,
+      3,
+      1,
+      4
+    ],
+    "sumArr": [
+      8,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:57:30",
+    "issue": "664246",
+    "openNum": [
+      9,
+      10,
+      2,
+      7,
+      8,
+      4,
+      3,
+      6,
+      1,
+      5
+    ],
+    "sumArr": [
+      19,
+      1,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:52:30",
+    "issue": "664245",
+    "openNum": [
+      10,
+      8,
+      5,
+      7,
+      9,
+      1,
+      2,
+      4,
+      3,
+      6
+    ],
+    "sumArr": [
+      18,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:47:30",
+    "issue": "664244",
+    "openNum": [
+      2,
+      4,
+      7,
+      10,
+      8,
+      5,
+      1,
+      6,
+      3,
+      9
+    ],
+    "sumArr": [
+      6,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:42:30",
+    "issue": "664243",
+    "openNum": [
+      2,
+      4,
+      3,
+      5,
+      8,
+      7,
+      10,
+      6,
+      1,
+      9
+    ],
+    "sumArr": [
+      6,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:37:30",
+    "issue": "664242",
+    "openNum": [
+      4,
+      5,
+      7,
+      6,
+      2,
+      9,
+      3,
+      10,
+      8,
+      1
+    ],
+    "sumArr": [
+      9,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      2,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:32:30",
+    "issue": "664241",
+    "openNum": [
+      3,
+      7,
+      6,
+      10,
+      8,
+      2,
+      9,
+      4,
+      1,
+      5
+    ],
+    "sumArr": [
+      10,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:27:30",
+    "issue": "664240",
+    "openNum": [
+      2,
+      1,
+      9,
+      10,
+      7,
+      4,
+      8,
+      5,
+      3,
+      6
+    ],
+    "sumArr": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:22:30",
+    "issue": "664239",
+    "openNum": [
+      4,
+      1,
+      3,
+      5,
+      8,
+      2,
+      9,
+      7,
+      6,
+      10
+    ],
+    "sumArr": [
+      5,
+      1,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:17:30",
+    "issue": "664238",
+    "openNum": [
+      4,
+      2,
+      10,
+      9,
+      1,
+      5,
+      7,
+      3,
+      6,
+      8
+    ],
+    "sumArr": [
+      6,
+      2,
+      2,
+      0
+    ],
+    "dtArr": [
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:12:30",
+    "issue": "664237",
+    "openNum": [
+      10,
+      4,
+      6,
+      3,
+      7,
+      5,
+      9,
+      1,
+      8,
+      2
+    ],
+    "sumArr": [
+      14,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  },
+  {
+    "openDateTime": "2018-01-29 09:07:30",
+    "issue": "664236",
+    "openNum": [
+      8,
+      10,
+      6,
+      5,
+      4,
+      9,
+      3,
+      1,
+      7,
+      2
+    ],
+    "sumArr": [
+      18,
+      2,
+      1,
+      0
+    ],
+    "dtArr": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "formArr": [
+      
+    ],
+    "mimcryArr": [
+      
+    ],
+    "compareArr": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "sumType": null,
+    "wuxing": null
+  }
+]

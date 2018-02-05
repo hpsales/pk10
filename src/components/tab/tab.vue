@@ -1,18 +1,18 @@
 <template>
   <div class="tab-wrapper">
     <div class="tab">
-      <router-link tag="div" class="tab-item" to="/daily">
-        <span class="tab-link">日志</span>
+      <router-link tag="div" class="tab-item" to="/home">
+        <span class="tab-link">首页</span>
       </router-link>
-      <router-link tag="div" class="tab-item" to="/article">
-        <span class="tab-link">文章</span>
+      <router-link tag="div" class="tab-item" to="/bet">
+        <span class="tab-link">投注</span>
       </router-link>
-      <router-link tag="div" class="tab-item" to="/classify">
-      <span class="tab-link">分类
+      <router-link tag="div" class="tab-item" to="/record">
+      <span class="tab-link">记录
       </span>
       </router-link>
-      <router-link tag="div" class="tab-item" to="/about">
-        <span class="tab-link">关于</span>
+      <router-link tag="div" class="tab-item" to="/contact">
+        <span class="tab-link">联系</span>
       </router-link>
     </div>
   </div>
@@ -26,15 +26,16 @@
   @import "~common/stylus/variable"
   .tab-wrapper
     width: 100%
-    position: relative
-    top: 0
+    position: fixed
+    bottom: 0
     left: 0
     z-index: 3
   .tab
     display: flex
-    height: 44px
-    line-height: 44px
-    background: salmon
+    height: 50px
+    line-height: 50px
+    background: $color-background
+    color: #fff
     font-size: $font-size-medium
     .tab-item
       flex: 1

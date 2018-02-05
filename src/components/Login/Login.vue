@@ -116,9 +116,10 @@
           if (result === 1) {
             this.showTishi = true
             this.tishi = '登录成功'
+            setCookies('username', this.account)
             setTimeout(function () {
               this.$router.push('/home')
-            }.bind(this), 1000)
+            }.bind(this), 500)
           } else {
             console.log('error')
             this.account = ''

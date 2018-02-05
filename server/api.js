@@ -60,7 +60,7 @@ router.post('/api/login/checkAccount', (req, res) => {
 
 
 // 文章接口
-router.post('/api/article/addArticle', (req, res) => {
+router.post('/api/bet/addArticle', (req, res) => {
   let article = {
     title: req.body.params.title,
     time: req.body.params.time,
@@ -78,7 +78,7 @@ router.post('/api/article/addArticle', (req, res) => {
   })
 });
 
-router.get('/api/article/showArticle', (req, res) => {
+router.get('/api/bet/showArticle', (req, res) => {
   ArticleModel.find((err, data) => {
     if (err) {
       res.send(err);

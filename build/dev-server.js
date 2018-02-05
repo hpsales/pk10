@@ -7,6 +7,7 @@ if (!process.env.NODE_ENV) {
 
 var opn = require('opn')
 var path = require('path')
+var axios = require('axios')
 var express = require('express')
 var webpack = require('webpack')
 var proxyMiddleware = require('http-proxy-middleware')
@@ -21,12 +22,27 @@ var autoOpenBrowser = !!config.dev.autoOpenBrowser
 var proxyTable = config.dev.proxyTable
 
 var app = express()
-var compiler = webpack(webpackConfig)
 
-app.get('userInfo',function (req,res) {
-  console.log(req.query.username)
-  res.send('leo')
+//api router
+var apiRoutes = express.Router()
+
+apiRoutes.get('/test',function(req,res,next) {
+  var url = 'https://www.cp8s.com/data/bjpk10/lotteryList/2018-02-01.json';
+  axios.get(url).then((response) => {
+    console.log(response.data)
+    res.send('ok')
+  }).catch((e) => {
+    console.log(e)
+    res.send('err')
+  })
 })
+
+app.use('/api', apiRoutes)
+
+
+
+
+var compiler = webpack(webpackConfig)
 
 var devMiddleware = require('webpack-dev-middleware')(compiler, {
   publicPath: webpackConfig.output.publicPath,

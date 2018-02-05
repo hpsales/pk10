@@ -6,30 +6,27 @@
           <span class="refresh-hook">{{tips}}</span>
         </div>
         <div v-if="isShowAlert" class="alert">刷新成功</div>
-        <div v-if="article.length">
-          <div class="list" @click="inPageDetail(key, item)"  v-for="(item, key) in article">
-            <p class="title">{{item.context}}</p>
-            <p class="info"><span>发表时间：{{item.time}}</span> <span>评论数：10 条</span> <span>{{key}}</span></p>
+        <div v-if="recordList.length">
+          <div class="list" @click="inPageDetail(key, item)"  v-for="(item, key) in recordList">
+            <p><span>旗号：{{item.issue}} -- {{item.lottery}}</span> <span>盈亏：{{item.profit}}</span>   </p>
+            <p> <span>详情：{{item.detail}}</span> <span>余额：{{item.money}}</span></p>
           </div>
         </div>
       </div>
     </div>
-    <keep-alive>
-      <router-view></router-view>
-    </keep-alive>
   </div>
 </template>
 
 <script type="text/ecmascript-6">
   import BScroll from 'better-scroll'
-  import {showArticle} from 'api/article'
+  import {getRecord} from 'api/bet'
   import Bus from 'common/js/bus'
 
   export default {
     data () {
       return {
         acc: 'lei',
-        article: [],
+        recordList: [],
         count: 1,
         tips: '下拉刷新',
         isShowAlert: false
@@ -43,8 +40,8 @@
     },
     methods: {
       _loadData () {
-        showArticle().then((res) => {
-          this.article = res.data.reverse()
+        getRecord().then((res) => {
+          this.recordList = res
           this.$nextTick(() => {
             if (!this.scroll) {
               this.scroll = new BScroll(this.$refs.wrapper, {probeType: 1, click: true})
@@ -69,12 +66,6 @@
         setTimeout(() => {
           this.isShowAlert = false
         }, 1000)
-      },
-      inPageDetail(key, item) {
-        this.$router.push({
-          path: `/daily/${key}`
-        })
-        Bus.$emit('articleDetail', item)
       }
     }
   }
@@ -114,20 +105,15 @@
       .list
         width: 100%
         box-sizing border-box
+        padding 10px
         border: 1px solid #ddd
-        box-shadow #eee 5px 5px inset
-        p.title
-          font-size: 14px
-          text-indent: 2em
-          text-align: left
-        p.info
-          margin: 0
-          padding: 0
-          line-height: 24px
-          font-size: 12px
-          text-align: left
-          color: #666
-          background: #eee
+        height: 50px
+        font-size: 12px
+        text-align left
+        p
+          line-height: 18px
+          display: flex
           span
-            margin-left: 20px
+            flex 1
+            margin-left: 10px
 </style>
